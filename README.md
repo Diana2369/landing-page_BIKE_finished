@@ -5,6 +5,7 @@ The project highlights different bike models and their details with a responsive
 
 --- 
 
+
 ## Features
 
 - Compare different bike models
@@ -25,6 +26,7 @@ The project highlights different bike models and their details with a responsive
 
 --- 
 
+
 ## Tech Stack
 
 - HTML5
@@ -39,6 +41,7 @@ The project highlights different bike models and their details with a responsive
 
 --- 
 
+
 ## 🌐 Live Preview
 👉 [View Demo](https://diana2369.github.io/landing-page_BIKE_finished/)
 
@@ -46,11 +49,13 @@ The project highlights different bike models and their details with a responsive
 
 --- ##
 
+
 ## 🎨 Design Reference
 This project is based on a design from Figma:  
 [👉 Figma Design Link](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=kT4ulUCOCsjEadS2-0)
 
 --- 
+
 
 ## Technologies Used
 
@@ -69,6 +74,8 @@ This project is based on a design from Figma:
 - Form validation and submission reset
 
 --- 
+
+
 ## Getting Started
 
 ### Clone the repository
